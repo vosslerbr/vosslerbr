@@ -2,7 +2,7 @@
 
 ### Feel free to check out my current and past projects, or follow me on social media
 
-[Twitter](twitter.com/bradyvossler)
+[Twitter](https://twitter.com/bradyvossler)
 
 [Instagram](https://www.instagram.com/vossler_br)
 
