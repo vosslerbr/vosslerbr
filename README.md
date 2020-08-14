@@ -1,7 +1,5 @@
 # **Yee**-frickin-**haw** 🤠
 
-## My name is Brady, and I'm a web developer
-
 ### Feel free to check out my current and past projects, or follow me on social media
 
 [Twitter](twitter.com/bradyvossler)
