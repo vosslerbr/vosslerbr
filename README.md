@@ -1,4 +1,12 @@
-### Hi there 👋
+# **Yee**-frickin-**haw** 🤠
+
+## My name is Brady, and I'm a web developer
+
+### Feel free to check out my current and past projects, or follow me on social media
+
+[Twitter](twitter.com/bradyvossler)
+
+[Instagram](https://www.instagram.com/vossler_br)
 
 <!--
 **vosslerbr/vosslerbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
