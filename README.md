@@ -2,6 +2,8 @@
 
 ### Feel free to check out my current and past projects, or follow me on social media
 
+Right now I'm learning React Native so I can expand my front-end knowledge into cross-platform development
+
 [Twitter](https://twitter.com/bradyvossler)
 
 [Instagram](https://www.instagram.com/vossler_br)
