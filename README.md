@@ -1,12 +1,12 @@
 # **Yee**-frickin-**haw** 🤠
 
-### Feel free to check out my current and past projects, or follow me on social media
+### I'm a front-end web developer with experience in HTML, CSS, and JavaScript, as well as entry-level knowledge in the MERN stack
 
 Right now I'm learning React Native so I can expand my front-end knowledge into cross-platform development
 
-[Twitter](https://twitter.com/bradyvossler)
+[My Twitter](https://twitter.com/bradyvossler)
 
-[Instagram](https://www.instagram.com/vossler_br)
+[My Instagram](https://www.instagram.com/vossler_br)
 
 <!--
 **vosslerbr/vosslerbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
