@@ -2,10 +2,6 @@
 
 ### I'm a front-end web developer with experience in HTML, CSS, and JavaScript, as well as entry-level knowledge in the MERN stack
 
-Right now I'm learning React Native so I can expand my front-end knowledge into cross-platform development
-
-[My Twitter](https://twitter.com/bradyvossler)
-
 [My Instagram](https://www.instagram.com/vossler_br)
 
 <!--
