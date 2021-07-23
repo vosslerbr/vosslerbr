@@ -1,6 +1,6 @@
 # **Yee**-frickin-**haw** 🤠
 
-### I'm a front-end web developer with experience in HTML, CSS, and JavaScript, as well as entry-level in Gatsby, Sanity.io, and GraphQL
+### I'm a front-end web developer with experience in HTML, CSS, and JavaScript, as well as entry-level knowledge in Gatsby, Sanity.io, and GraphQL
 
 [My Instagram](https://www.instagram.com/vossler_br)
 
