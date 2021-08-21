@@ -1,8 +1,8 @@
-# **Yee**-frickin-**haw** 🤠
+# **Howdy** 🤠
 
-### I'm a front-end web developer with experience in HTML, CSS, and JavaScript, as well as entry-level knowledge in Gatsby, Sanity.io, and GraphQL
+### I'm a web developer primarily working with JavaScript and TypeScript to build and extend Knack applications. 
 
-[My Instagram](https://www.instagram.com/vossler_br)
+
 
 <!--
 **vosslerbr/vosslerbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
