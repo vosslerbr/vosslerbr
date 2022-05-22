@@ -2,7 +2,7 @@
 
 ### A web developer from Minnesota, USA.
 
-#### In my current work, I build full-stack applications using Knack and I create plugins and features for clients with JavaScript, TypeScript, and Vue.
+#### In my current work, I build full-stack applications using Knack, JavaScript/TypeScript, Vue, and Express.
 
 ### Some 😎 **cool** 😎 stuff
 
