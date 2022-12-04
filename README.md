@@ -1,14 +1,14 @@
 # Howdy 🤠, I'm Brady
 
-### A web developer from Minnesota, USA.
+### A full-stack web developer from Minnesota, USA.
 
-#### In my current work, I build full-stack applications using Knack, JavaScript/TypeScript, Vue, and Express.
+#### In my current work, I build, maintain, and extend Knack applications with JavaScript/TypeScript, jQuery, and Vue. I also build and maintain custom APIs for our clients using Express or Fastify.
 
 ### Some 😎 **cool** 😎 stuff
 
-- 🔭 I’m currently working on **Particle! "A place for code snippets"**
+- 🔭 I’m currently working on a grocery list app for my wife and I
 
-- 👨‍💻 My portfolio can be found at [bradyvossler.dev](bradyvossler.dev)
+- 👨‍💻 My portfolio can be found at [bradyvossler.dev](bradyvossler.dev) (new projects coming soon)
 
 - 📫 How to reach me: **bradyvossler@gmail.com**
 
