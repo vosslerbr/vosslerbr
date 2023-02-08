@@ -2,11 +2,13 @@
 
 ### A full-stack web developer from Minnesota, USA.
 
-#### In my current work, I build, maintain, and extend Knack applications with JavaScript/TypeScript, jQuery, and Vue. I also build and maintain custom APIs for our clients using Express or Fastify.
+### In my current work, I:
+- Extend Knack applications with JavaScript/TypeScript, jQuery, and Vue.
+- Build and maintain custom APIs and full-stack apps using React/Express or NextJS
 
 ### Some 😎 **cool** 😎 stuff
 
-- 🔭 I’m currently working on a grocery list app for my wife and I
+- 🔭 I’m currently working on a new companion app for Destiny 2
 
 - 👨‍💻 My portfolio can be found at [bradyvossler.dev](bradyvossler.dev) (new projects coming soon)
 
