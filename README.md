@@ -6,6 +6,6 @@
 - Extend Knack applications with JavaScript/TypeScript, jQuery, and Vue.
 - Build and maintain custom APIs and full stack apps using React/Express or Next.js
 
-[My portfolio](portfolio.kindof.dev)
+[My portfolio](https://portfolio.kindof.dev)
 
 
